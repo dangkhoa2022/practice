@@ -3,4 +3,4 @@
 
 let width = 20
 let height = 10
-document.write('S = ', S = (width + height)*2)
+document.write('S = ',width * height)
